@@ -1,3 +1,5 @@
+[![Build and test of Java Project](https://github.com/diego-serna-valcarcel/Lab1.2-_EMS/actions/workflows/main.yml/badge.svg)](https://github.com/diego-serna-valcarcel/Lab1.2-_EMS/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
